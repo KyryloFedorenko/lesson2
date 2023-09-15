@@ -37,8 +37,10 @@
   padding: 8px;
 }
 
-.nav a::hover {
-  color: #ffffff
+.nav a:hover {
+  color: #ffffff;
+
+  transition: 0.2s;
 }
 
 .about-me {
@@ -51,4 +53,40 @@
 
 .friends-living {
   background-color: #F27405;
+}
+
+.mygroup {
+  background-color: #fb8823
+}
+
+.group-blair {
+  /* background-color: green; */
+  background-color: #F2B077;
+}
+
+.group-jack {
+  /* background-color: maroon; */
+  background-color: #F25C05;
+}
+
+.group-kyrylo {
+  /* background-color: black;
+  color: white */
+  background-color: #F27405;
+}
+
+.kharkiv {
+  background-color: #0ec0fb;
+}
+
+.pictures {
+  background-color: yellow;
+}
+
+.map {
+  background-color: #0ec0fb;
+}
+
+.contact {
+  background-color: #F2B077;
 }
