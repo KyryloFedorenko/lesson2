@@ -1,0 +1,54 @@
+/* Color Theme Swatches in Hex */
+.ILLUSTRATIONS-01.--2021-22-1-hex {
+  color: #F27405;
+}
+
+.ILLUSTRATIONS-01.--2021-22-2-hex {
+  color: #F2B077;
+}
+
+.ILLUSTRATIONS-01.--2021-22-3-hex {
+  color: #F25C05;
+}
+
+.ILLUSTRATIONS-01.--2021-22-4-hex {
+  color: #F24405;
+}
+
+.ILLUSTRATIONS-01.--2021-22-5-hex {
+  color: #261813;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav {
+  background-color: #F27405;
+
+}
+
+.nav a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #261813;
+  padding: 8px;
+}
+
+.nav a::hover {
+  color: #ffffff
+}
+
+.about-me {
+  background-color: #F2B077;
+}
+
+.my-friends {
+  background-color: #F25C05;
+}
+
+.friends-living {
+  background-color: #F27405;
+}
