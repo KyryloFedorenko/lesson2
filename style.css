@@ -90,3 +90,15 @@
 .contact {
   background-color: #F2B077;
 }
+
+.img_wolf {
+  width: 500px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer p {
+  padding-top: 40px;
+}
