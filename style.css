@@ -1,22 +1,22 @@
 /* Color Theme Swatches in Hex */
-.ILLUSTRATIONS-01.--2021-22-1-hex {
-  color: #F27405;
+.Poseidon-1-hex {
+  color: #012030;
 }
 
-.ILLUSTRATIONS-01.--2021-22-2-hex {
-  color: #F2B077;
+.Poseidon-2-hex {
+  color: #13678A;
 }
 
-.ILLUSTRATIONS-01.--2021-22-3-hex {
-  color: #F25C05;
+.Poseidon-3-hex {
+  color: #45C4B0;
 }
 
-.ILLUSTRATIONS-01.--2021-22-4-hex {
-  color: #F24405;
+.Poseidon-4-hex {
+  color: #9AEBA3;
 }
 
-.ILLUSTRATIONS-01.--2021-22-5-hex {
-  color: #261813;
+.Poseidon-5-hex {
+  color: #DAFDBA;
 }
 
 * {
@@ -25,8 +25,12 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.img_wolf {
+  width: 500px;
+}
+
 .nav {
-  background-color: #F27405;
+  background-color: #DAFDBA;
   display: block;
   overflow: hidden;
   width: 100%;
@@ -42,66 +46,70 @@
 
 .nav a:hover {
   color: #ffffff;
-
   transition: 0.2s;
 }
 
 .about-me {
-  background-color: #F2B077;
+  background-color: #9AEBA3;
 }
 
 .my-friends {
-  background-color: #F25C05;
+  background-color: #45C4B0;
 }
 
 .friends-living {
-  background-color: #F27405;
+  background-color: #13678A;
 }
 
 .mygroup {
-  background-color: #fb8823
+  background-color: #9AEBA3;
 }
 
 .group-blair {
   /* background-color: green; */
-  background-color: #F2B077;
+  background-color: #45C4B0;
 }
 
 .group-jack {
   /* background-color: maroon; */
-  background-color: #F25C05;
+  background-color: #13678A;
 }
 
 .group-kyrylo {
   /* background-color: black;
   color: white */
-  background-color: #F27405;
+  background-color: #45C4B0;
 }
 
 .kharkiv {
-  background-color: #0ec0fb;
+  background-color: #9AEBA3;
 }
 
 .pictures {
-  background-color: yellow;
+  background-color: #45C4B0;
 }
 
 .map {
-  background-color: #0ec0fb;
+  background-color: #13678A;
 }
 
 .contact {
-  background-color: #F2B077;
+  background-color: #9AEBA3;
 }
 
-.img_wolf {
-  width: 500px;
+.forma {
+  background-color: #45C4B0;
 }
 
 footer {
   text-align: center;
+  background-color: #DAFDBA;
 }
 
 footer p {
   padding-top: 40px;
+}
+
+footer a {
+  color: #000;
 }
